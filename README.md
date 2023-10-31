@@ -3,4 +3,4 @@
 App main -> DecisionSystemApplication.java
 Test main -> LoanControllerTests.java
 
-Please, use any of the personal code in the test example.
+Please, use any of the personal codes in the test example.
